@@ -1,0 +1,10 @@
+pandas==0.25.1
+numpy==1.19.4
+tqdm==4.31.1
+lightgbm==3.1.0
+gensim==3.8.3
+faiss-gpu==1.6.5
+scikit-learn==0.23.2
+deepctr==0.8.2
+deepmatch==0.2.0
+
